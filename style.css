@@ -1,0 +1,51 @@
+.header
+{
+  position: absolute;
+  z-index: 10;
+  width: 100%;
+}
+
+.navbar-brand
+{
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.nav-item
+{
+  font-weight: 600;
+  text-transform: uppercase;
+  border-right-style: solid;
+  padding:2px 10px;
+}
+.
+
+.navbar-light .navbar-nav .nav-item .nav-link
+{
+  color: black;
+}
+.navbar-light .navbar-nav .nav-item .nav-link:hover
+{
+  color: whitesmoke;
+  background-color: #262626;
+}
+
+.navbar-light .navbar-nav .nav-item .active 
+{
+  background-color: #262626;
+  color: white;
+}
+
+.navbar-toggler
+{
+  color: #FFFFFF;
+  border: 2px solid #7f7f7f;
+  border-radius: 0;
+  outline: none;
+}
+
+
+.carousel-item
+{
+  height:350px;
+}
