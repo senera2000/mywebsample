@@ -25,10 +25,18 @@
   width: 100%;
 }
 
-.navbar-brand
+.navbar-brand span
 {
   font-weight: 800;
   text-transform: uppercase;
+  margin-left: 10px;
+}
+
+.logo
+{
+    width: 150px;
+    margin:-12px;
+    margin-left: -5px;
 }
 
 .nav-item
@@ -47,6 +55,8 @@
   border-left-width: thin;
   color: #99EEFF;
 }
+
+
 .navbar-light .navbar-nav .nav-item .nav-link:hover
 {
   color: #000099;
@@ -73,6 +83,14 @@
 {
   height:350px;
 }
+
+/* About Us page */
+
+.card-group
+{
+    margin-top: 25px;
+}
+
 
 /* Contact Us page */
 
